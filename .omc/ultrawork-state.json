@@ -1,7 +1,0 @@
-{
-  "active": true,
-  "started_at": "2026-01-29T15:49:31.216Z",
-  "original_prompt": "MiniMax M2.1로 하자\n\n그리고 대화 만드는건 아까 her 모델로 한번 해줘바바 \n다른 모델이랑 어떤 차이가 있는지 궁금해\n\n/oh-my-claudecode:ultrawork ",
-  "reinforcement_count": 10,
-  "last_checked_at": "2026-01-30T07:27:19.316Z"
-}
